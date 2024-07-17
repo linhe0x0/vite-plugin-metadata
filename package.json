@@ -1,0 +1,23 @@
+{
+  "name": "vite-plugin-metadata",
+  "version": "0.0.0-development",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhe0x0/vite-plugin-metadata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linhe0x0/vite-plugin-metadata/issues"
+  },
+  "homepage": "https://github.com/linhe0x0/vite-plugin-metadata#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": "linhe0x0 <linhe0x0@gmail.com> (https://github.com/linhe0x0)",
+  "license": "MIT"
+}
